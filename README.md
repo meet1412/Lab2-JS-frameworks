@@ -6,7 +6,7 @@ This assignment demonstrates the usage of four JavaScript functions that perform
 
 ## Files
 
-- **`main.js`** - This file imports and calls the functions.
+- **`mainJavascriptFile.js`** - This file imports and calls the functions.
 - **`utilityJavascriptFile.js`** - Contains the actual implementations of the functions.
 
 ## Functions
@@ -57,5 +57,5 @@ This assignment demonstrates the usage of four JavaScript functions that perform
 
 1. Run the following command to execute the code:
     ```bash
-    node main.js
+    node mainJavascriptFile.js
     ```
