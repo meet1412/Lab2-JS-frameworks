@@ -55,9 +55,7 @@ This assignment demonstrates the usage of four JavaScript functions that perform
 
 ## How to Run the Code
 
-1. Clone the repository or download the source files.
-2. Ensure you have Node.js installed on your system.
-3. Run the following command to execute the code:
+1. Run the following command to execute the code:
     ```bash
     node main.js
     ```
